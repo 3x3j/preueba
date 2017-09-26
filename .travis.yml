@@ -6,4 +6,6 @@ script: mvn test -B
 
 notifications:
   email:
- - betxfree@gmail.com
+ - ismael.medina@alu.uclm.es
+ - patricio.gil@alu.uclm.es
+ 
